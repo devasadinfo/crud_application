@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 # Project_Details
-`Pages Section`
+<h2>Pages Section</h2>
 <ul>
 <li>Create Section</li>
 <li>Insert Section</li>
